@@ -42,7 +42,7 @@ To run the WeatherApp locally, follow these steps:
 - [OpenWeatherMap documentation](https://openweathermap.org/)
 
 ## ✨Credits
-`WeatherApp` is developed and maintained by `Yash`. Weather data is retrieved from the [OpenWeatherMap API](https://openweathermap.org/).
+`WeatherApp` is developed and maintained by `Amjath`. Weather data is retrieved from the [OpenWeatherMap API](https://openweathermap.org/).
 
 ## 📧Contacts
 For any inquiries or feedback, please contact [Here](mailto:amjathaj2002@gmail.com).
